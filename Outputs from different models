@@ -11,3 +11,5 @@ Model Outputs
 3. Random Forest Regression
     Mean:  3.494650261111624
     Standard deviation:  0.762041223886678
+
+   Random Forest Regression is best in all of the three regression in predicting house price and Linear regression is worst.
